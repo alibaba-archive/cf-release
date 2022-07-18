@@ -58,7 +58,7 @@ GEM
     net-ssh (2.9.2)
     net-ssh-gateway (1.2.0)
       net-ssh (>= 2.6.5)
-    netaddr (1.5.1)
+    netaddr (1.5.3)
     progressbar (0.9.2)
     rinku (1.7.3)
     rspec (3.3.0)
